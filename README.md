@@ -3,9 +3,9 @@
 <img style="display: block;" align="right" alt="Coding" width="350" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=25db078f403d3ba26576f8a39530b2614b7fd04c089880709af21296f22442ff&ipo=images">
 
 - 🔭 I’m currently working on:
-  [Eagle Shark Cyber Risk Assessment](https://escra.eu)
-  [Nem-Aftale](https://nemaftale.com)
-  [Craftr](https://craftr.dk)
+- [Eagle Shark Cyber Risk Assessment](https://escra.eu)
+- [Nem-Aftale](https://nemaftale.com)
+- [Craftr](https://craftr.dk)
 
 <p align="left">
 </p>
